@@ -39,12 +39,14 @@
 <br/>
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AasthaTank&layout=compact&theme=dark&bg_color=0A0A0A" alt="Known Languages"/>
-<br />
+<img 
+src="https://github-readme-stats.vercel.app/api/top-langs?username=AasthaTank&exclude_repo=PPL_A_2022_10,PBP_Mini_Project&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
+alt="adam-pw"
+bg_color=#808080/>
 </div>
 
-<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me  </h3>
 
+<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me  </h3>
 <div align="center">
 
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aastha-tank-4a5126263/)
